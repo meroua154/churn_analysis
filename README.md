@@ -28,7 +28,7 @@ telco-churn-prediction/
 │   └── churn_analysis.ipynb       # Notebook principal
 │
 ├── 📁 data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   └── data.csv
 │
 ├── 📁 outputs/
 │   └── plan_marketing_segments.csv  # Clients classés par risque
