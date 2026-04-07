@@ -193,12 +193,6 @@ jupyter
 
 ---
 
-## 📜 Licence
-
-Ce projet est sous licence MIT — voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
 *Dataset source : [IBM Sample Data Sets](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)*
 # 📊 Telco Customer Churn Prediction
 
