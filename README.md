@@ -138,8 +138,8 @@ Le seuil par défaut (0.50) a été abaissé à **0.45** pour maximiser la déte
 
 ### 1. Cloner le repo
 ```bash
-git clone https://github.com/meroua154/telco-churn-prediction.git
-cd telco-churn-prediction
+git clone https://github.com/meroua154/churn_analysis.git
+cd churn_analysis
 ```
 
 ### 2. Installer les dépendances
